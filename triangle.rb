@@ -14,7 +14,20 @@
 #   about_triangle_project_2.rb
 #
 def triangle(a, b, c)
-  # WRITE THIS CODE
+  if [a,b,c].any? { |x| x <= 0 }
+    raise TriangleError.new("No triangle edge can be zero.")
+  end
+  x,y,z = [a,b,c].sort
+  if x + y <= z
+    raise TriangleError.new("Triangle inequality must hold.")
+  end
+  if [a,b,c].all? { |x| x == a }
+    return :equilateral
+  end
+  if a == b || b == c || c == a
+    return :isosceles
+  end
+  :scalene
 end
 
 # Error class used in part 2.  No need to change this code.
