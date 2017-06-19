@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d29ef418-2a88-4fd2-a790-58fd5ab6fba0" name="Default" comment="your path thus far [..........................X_______________________] 152/282">
+    <list default="true" id="d29ef418-2a88-4fd2-a790-58fd5ab6fba0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.path_progress" afterPath="$PROJECT_DIR$/.path_progress" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_exceptions.rb" afterPath="$PROJECT_DIR$/about_exceptions.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_iteration.rb" afterPath="$PROJECT_DIR$/about_iteration.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triangle.rb" afterPath="$PROJECT_DIR$/triangle.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_blocks.rb" afterPath="$PROJECT_DIR$/about_blocks.rb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -54,11 +51,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about_iteration.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="about_iteration.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about_iteration.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="555">
               <caret line="120" column="3" lean-forward="false" selection-start-line="120" selection-start-column="3" selection-end-line="120" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_blocks.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about_blocks.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="503">
+              <caret line="89" column="0" lean-forward="true" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -106,6 +113,7 @@
         <option value="$PROJECT_DIR$/about_exceptions.rb" />
         <option value="$PROJECT_DIR$/triangle.rb" />
         <option value="$PROJECT_DIR$/about_iteration.rb" />
+        <option value="$PROJECT_DIR$/about_blocks.rb" />
       </list>
     </option>
   </component>
@@ -397,7 +405,7 @@
       <updated>1497542630671</updated>
       <workItem from="1497542634577" duration="2462000" />
       <workItem from="1497633372647" duration="7064000" />
-      <workItem from="1497694282752" duration="9615000" />
+      <workItem from="1497694282752" duration="12390000" />
     </task>
     <task id="LOCAL-00001" summary="[.......X__________________________________________] 43/282">
       <created>1497636052951</created>
@@ -434,11 +442,18 @@
       <option name="project" value="LOCAL" />
       <updated>1497774711666</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="your path thus far [..............................X___________________] 170/282">
+      <created>1497798341701</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1497798341701</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19141000" />
+    <option name="totallyTimeSpent" value="21916000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
@@ -475,7 +490,8 @@
     <MESSAGE value="your path thus far [..............X___________________________________] 83/282&#10;&#10;finished strings and symbols" />
     <MESSAGE value="your path thus far [..............X___________________________________] 83/282&#10;&#10;finished regular expressions" />
     <MESSAGE value="your path thus far [..........................X_______________________] 152/282" />
-    <option name="LAST_COMMIT_MESSAGE" value="your path thus far [..........................X_______________________] 152/282" />
+    <MESSAGE value="your path thus far [..............................X___________________] 170/282" />
+    <option name="LAST_COMMIT_MESSAGE" value="your path thus far [..............................X___________________] 170/282" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -484,14 +500,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/about_arrays.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1440">
-          <caret line="80" column="21" lean-forward="false" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about_array_assignment.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="864">
@@ -885,6 +893,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
           <caret line="120" column="3" lean-forward="false" selection-start-line="120" selection-start-column="3" selection-end-line="120" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_blocks.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="89" column="0" lean-forward="true" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
           <folding />
         </state>
       </provider>
